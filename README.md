@@ -1,2 +1,2 @@
 # ArknightsDump
-latest: 2.0.40_fix3
+latest: 2.0.40_fix2
