@@ -1,2 +1,2 @@
 # ArknightsDump
-dump.cs of Arknights
+latest: 2.0.40_fix3
